@@ -40,4 +40,4 @@ In addition to coding, I'm also a creative designer. I have a keen eye for aesth
 
 ### Get in Touch :mailbox:
 
-I'm always open to new ideas and collaborations, so don't hesitate to connect with me. You can reach me on [my e-mail](nezzar.dalia@gmail.com). Let's make some cool stuff together! :rocket:
+I'm always open to new ideas and collaborations, so don't hesitate to connect with me. You can reach me on [my e-mail](mailto:nezzar.dalia@gmail.com). Let's make some cool stuff together! :rocket:
