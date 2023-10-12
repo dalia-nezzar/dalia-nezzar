@@ -26,6 +26,7 @@ Here are some of the technologies I work with:
  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+ ![Python](https://img.shields.io/badge/Python-FFCE3D?style=for-the-badge&logo=python&logoColor=black)
 
 <hr>
 
