@@ -12,7 +12,7 @@ I'm Dalia, a Computer Science student at the Franche-Comté University in France
 
 ### My Skills :rocket:
 
-Here are some of the technologies I work with:
+Here are some of the languages I worked and am working with:
 
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
