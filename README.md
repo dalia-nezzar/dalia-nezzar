@@ -5,7 +5,7 @@ I'm Dalia, a Computer Science student at the Franche-Comté University in France
 
 ### About Me :sunglasses:
 
-- 🌱 I'm currently seeking **an internship for 2024 (April 8th onwards) lasting up to 12 weeks**. If you have any exciting opportunities, feel free to reach out!
+- 🌱 I'm currently seeking for **a work-study position in web development for my 3rd year of Computer Science BUT (2024-2025)**. If you have any exciting opportunities, feel free to reach out!
 - 😅 I admit, I _sometimes_ struggle with inspiration, but I'm always eager to learn and explore new ideas.
 
 <hr>
@@ -34,11 +34,11 @@ Here are some of the languages I worked and am working with:
 
 In addition to coding, I'm also a creative designer. I have a keen eye for aesthetics and enjoy designing beautiful and user-friendly websites and mobile apps. :art:
 
-- 🎨 A good design is not necessarly a good website, and here I am making both
+- 🎨 A good design is not necessarly a good website, (and here I am making both)
 - 💡 I'm all in for transforming cool ideas into eye-catching digital creations. Ready to partner up and bring those concepts to life? 😤
 
 <hr>
 
 ### Get in Touch :mailbox:
 
-I'm always open to new ideas and collaborations, so don't hesitate to connect with me. You can reach me on [my e-mail](mailto:nezzar.dalia@gmail.com). Let's make some cool stuff together! :rocket:
+I'm always open to new ideas and collaborations, so don't hesitate to connect with me. You can reach me on [my e-mail](mailto:nezzar.dalia@gmail.com) or [my LinkedIn](https://www.linkedin.com/in/dalia-nezzar-302984299/). Let's make some cool stuff together! :rocket:
