@@ -5,7 +5,7 @@ I'm Dalia, a Computer Science student at the Franche-Comté University in France
 
 ### About Me :sunglasses:
 
-- 🌱 I'm currently seeking for **a work-study position in web development for my 3rd year of Computer Science BUT (2024-2025)**. If you have any exciting opportunities, feel free to reach out!
+- 🌱 I love to code, sing, draw, dream... Oop, my bad, thought this was LinkedIn for a second :') (I also laugh a lot)
 - 😅 I admit, I _sometimes_ struggle with inspiration, but I'm always eager to learn and explore new ideas.
 
 <hr>
