@@ -1,12 +1,12 @@
 # Hello, World! :wave:
 
-I'm Dalia, a Computer Science student at the Franche-Comté University in France. 🎓 I'm passionate about coding, like, a LOT, and love to explore the different technologies regarding web and mobile app development (for real!) :computer:
+I'm Dalia, a Computer Science student at the Franche-Comté University in France, and apprentice at FORVIA for the ServiceNow team. 🎓 I'm really passionate about coding, and absolutely love to explore the different technologies regarding web and mobile app development (one of my pet peeves is to use tools loads of my comrades know nothing about, lol) :computer:
 <hr>
 
 ### About Me :sunglasses:
 
-- 🌱 I love to code, sing, draw, dream... Oop, my bad, thought this was LinkedIn for a second :') (I also laugh a lot)
-- 😅 I admit, I _sometimes_ struggle with inspiration, but I'm always eager to learn and explore new ideas.
+- 🌱 I love to code and draw... I also have a pretty good (dark) humor. Don't mind me laughing over there
+- 😅 I _sometimes_ struggle with inspiration (whether coded-project or illustration-wise, but I'm always eager to learn and explore new ideas.
 
 <hr>
 
@@ -32,13 +32,11 @@ Here are some of the languages I worked and am working with:
 
 ### Creative Designer Programmer Studenter Lover :art:
 
-In addition to coding, I'm also a creative designer. I have a keen eye for aesthetics and enjoy designing beautiful and user-friendly websites and mobile apps. :art:
+In addition to coding, I'm also a creative designer. I have a keen eye for aesthetics and enjoy designing beautiful and user-friendly websites and mobile apps. (even though I do love to code both front and back) :art:
 
 - 🎨 A good design is not necessarly a good website, (and here I am making both)
-- 💡 I'm all in for transforming cool ideas into eye-catching digital creations. Ready to partner up and bring those concepts to life? 😤
-
 <hr>
 
 ### Get in Touch :mailbox:
 
-I'm always open to new ideas and collaborations, so don't hesitate to connect with me. You can reach me on [my e-mail](mailto:nezzar.dalia@gmail.com) or [my LinkedIn](https://www.linkedin.com/in/dalia-nezzar-302984299/). Let's make some cool stuff together! :rocket:
+I'm always open to new ideas and collaborations, so don't hesitate to connect with me. You can reach me on [my e-mail](mailto:nezzar.dalia@gmail.com) or [my LinkedIn](https://www.linkedin.com/in/dalia-nezzar-302984299/). Let's make some cool stuff together! ^^
