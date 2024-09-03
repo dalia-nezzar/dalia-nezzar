@@ -6,7 +6,7 @@ I'm Dalia, a Computer Science student at the Franche-Comté University in France
 ### About Me :sunglasses:
 
 - 🌱 I love to code and draw... I also have a pretty good (dark) humor. Don't mind me laughing over there
-- 😅 I _sometimes_ struggle with inspiration (whether coded-project or illustration-wise, but I'm always eager to learn and explore new ideas.
+- 😅 I _sometimes_ struggle with inspiration (whether coded-project or illustration-wise), but I'm always eager to learn and explore new ideas.
 
 <hr>
 
