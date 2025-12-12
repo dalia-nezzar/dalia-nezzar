@@ -1,12 +1,6 @@
 # Hello, World! :wave:
 
-I'm Dalia, a Computer Science student at the Franche-Comté University in France, and apprentice at FORVIA for the ServiceNow team. 🎓 I'm really passionate about coding, and absolutely love to explore the different technologies regarding web and mobile app development (one of my pet peeves is to use tools loads of my comrades know nothing about, lol) :computer:
-<hr>
-
-### About Me :sunglasses:
-
-- 🌱 I love to code and draw... I also have a pretty good (dark) humor. Don't mind me laughing over there
-- 😅 I _sometimes_ struggle with inspiration (whether coded-project or illustration-wise), but I'm always eager to learn and explore new ideas.
+I'm Dalia, a Computer Science student at the University of Technology of Belfort-Montbéliard in France, and an apprentice at FORVIA for the ServiceNow team. 🎓 I'm really passionate about coding, and absolutely love to explore the different technologies regarding web, software and mobile app development (one of my pet peeves is to use tools loads of my comrades know nothing about, lol) :computer:
 
 <hr>
 
@@ -33,8 +27,6 @@ Here are some of the languages I worked and am working with:
 ### Creative Designer Programmer Studenter Lover :art:
 
 In addition to coding, I'm also a creative designer. I have a keen eye for aesthetics and enjoy designing beautiful and user-friendly websites and mobile apps. (even though I do love to code both front and back) :art:
-
-- 🎨 A good design is not necessarly a good website, (and here I am making both)
 <hr>
 
 ### Get in Touch :mailbox:
